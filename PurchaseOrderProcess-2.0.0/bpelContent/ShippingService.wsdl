@@ -1,0 +1,69 @@
+<wsdl:definitions xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:ns1="http://org.apache.axis2/xsd" xmlns:ns="http://shipping.spec.bpel.wso2.org" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://shipping.spec.bpel.wso2.org">
+    <wsdl:documentation>ShippingService</wsdl:documentation>
+    <wsdl:types>
+        <xs:schema attributeFormDefault="qualified" elementFormDefault="qualified" targetNamespace="http://shipping.spec.bpel.wso2.org">
+            <xs:element name="selectShipper">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element minOccurs="0" name="shipperId" nillable="true" type="xs:string"></xs:element>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:schema>
+    </wsdl:types>
+    <wsdl:message name="selectShipperRequest">
+        <wsdl:part name="parameters" element="ns:selectShipper"></wsdl:part>
+    </wsdl:message>
+    <wsdl:portType name="ShippingServicePortType">
+        <wsdl:operation name="selectShipper">
+            <wsdl:input message="ns:selectShipperRequest" wsaw:Action="urn:selectShipper"></wsdl:input>
+        </wsdl:operation>
+    </wsdl:portType>
+    <wsdl:binding name="ShippingServiceSoap11Binding" type="ns:ShippingServicePortType">
+        <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="document"></soap:binding>
+        <wsdl:operation name="selectShipper">
+            <soap:operation soapAction="urn:selectShipper" style="document"></soap:operation>
+            <wsdl:input>
+                <soap:body use="literal"></soap:body>
+            </wsdl:input>
+        </wsdl:operation>
+    </wsdl:binding>
+    <wsdl:binding name="ShippingServiceSoap12Binding" type="ns:ShippingServicePortType">
+        <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" style="document"></soap12:binding>
+        <wsdl:operation name="selectShipper">
+            <soap12:operation soapAction="urn:selectShipper" style="document"></soap12:operation>
+            <wsdl:input>
+                <soap12:body use="literal"></soap12:body>
+            </wsdl:input>
+        </wsdl:operation>
+    </wsdl:binding>
+    <wsdl:binding name="ShippingServiceHttpBinding" type="ns:ShippingServicePortType">
+        <http:binding verb="POST"></http:binding>
+        <wsdl:operation name="selectShipper">
+            <http:operation location="selectShipper"></http:operation>
+            <wsdl:input>
+                <mime:content type="text/xml" part="parameters"></mime:content>
+            </wsdl:input>
+        </wsdl:operation>
+    </wsdl:binding>
+    <wsdl:service name="ShippingService">
+        <wsdl:port name="ShippingServiceHttpSoap11Endpoint" binding="ns:ShippingServiceSoap11Binding">
+            <soap:address location="http://localhost:9765/services/ShippingService.ShippingServiceHttpSoap11Endpoint/"></soap:address>
+        </wsdl:port>
+        <wsdl:port name="ShippingServiceHttpsSoap11Endpoint" binding="ns:ShippingServiceSoap11Binding">
+            <soap:address location="https://localhost:9445/services/ShippingService.ShippingServiceHttpsSoap11Endpoint/"></soap:address>
+        </wsdl:port>
+        <wsdl:port name="ShippingServiceHttpsSoap12Endpoint" binding="ns:ShippingServiceSoap12Binding">
+            <soap12:address location="https://localhost:9445/services/ShippingService.ShippingServiceHttpsSoap12Endpoint/"></soap12:address>
+        </wsdl:port>
+        <wsdl:port name="ShippingServiceHttpSoap12Endpoint" binding="ns:ShippingServiceSoap12Binding">
+            <soap12:address location="http://localhost:9765/services/ShippingService.ShippingServiceHttpSoap12Endpoint/"></soap12:address>
+        </wsdl:port>
+        <wsdl:port name="ShippingServiceHttpsEndpoint" binding="ns:ShippingServiceHttpBinding">
+            <http:address location="https://localhost:9445/services/ShippingService.ShippingServiceHttpsEndpoint/"></http:address>
+        </wsdl:port>
+        <wsdl:port name="ShippingServiceHttpEndpoint" binding="ns:ShippingServiceHttpBinding">
+            <http:address location="http://localhost:9765/services/ShippingService.ShippingServiceHttpEndpoint/"></http:address>
+        </wsdl:port>
+    </wsdl:service>
+</wsdl:definitions>
