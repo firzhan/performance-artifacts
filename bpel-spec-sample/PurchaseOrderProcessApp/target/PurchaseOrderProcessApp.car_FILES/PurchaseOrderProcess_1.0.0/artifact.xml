@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artifact name="PurchaseOrderProcess" version="1.0.0" type="bpel/workflow" serverRole="BusinessProcessServer">
+    <file>PurchaseOrderProcess-1.0.0.zip</file>
+</artifact>

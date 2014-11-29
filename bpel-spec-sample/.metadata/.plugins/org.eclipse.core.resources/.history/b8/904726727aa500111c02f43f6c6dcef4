@@ -1,0 +1,7 @@
+package org.wso2.bpel.spec.computeprice;
+
+public class ComputePriceService{
+	public long computePrice(String orderId){
+		return 1000;
+	}
+}

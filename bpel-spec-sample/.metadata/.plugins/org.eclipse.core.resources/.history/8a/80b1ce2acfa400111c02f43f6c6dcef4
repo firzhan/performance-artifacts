@@ -1,0 +1,9 @@
+package org.wso2.bpel.spec.computeprice;
+
+import java.util.Random;
+
+public class ComputePriceService{
+	public long computePrice(String orderId){
+		return 1000;
+	}
+}

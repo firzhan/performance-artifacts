@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><wsdl:definitions name="ShippingCallback" targetNamespace="http://www.example.org/ShippingCallback/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:tns="http://www.example.org/ShippingCallback/" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <wsdl:types>
+    <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.example.org/ShippingCallback/">
+	
+	<xsd:element name="ScheduleMessage">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="shipperId" type="xsd:string"></xsd:element>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+        </xsd:schema>
+        </wsdl:types>
+    <wsdl:message name="sendShippingPriceRequest">
+		<wsdl:part name="parameters" element="tns:ScheduleMessage"></wsdl:part>
+	</wsdl:message>
+    <wsdl:portType name="ShippingCallbackPortType">
+    	<wsdl:operation name="sendShippingPrice">
+    		<wsdl:input message="tns:sendShippingPriceRequest"></wsdl:input>
+    	</wsdl:operation>
+    </wsdl:portType>
+    <wsdl:binding name="NewBinding" type="tns:ShippingCallbackPortType"></wsdl:binding>
+</wsdl:definitions>

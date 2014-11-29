@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.bpel.ui.dialogs.PartnerLinkTypeSelectorDialog">
+		<item value="472" key="DIALOG_WIDTH"/>
+		<item value="false" key="ShowDuplicates"/>
+		<item value="1031" key="ViewFrom"/>
+		<item value="true" key="ShowPortTypes"/>
+		<item value="23" key="DIALOG_Y_ORIGIN"/>
+		<item value="701" key="DIALOG_HEIGHT"/>
+		<item value="604" key="DIALOG_X_ORIGIN"/>
+		<item value="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="org.eclipse.bpel.ui.wizards.CreatePartnerLinkWizard">
+	</section>
+	<section name="org.eclipse.bpel.ui.dialogs.SchemaImportDialog">
+		<item value="355" key="DIALOG_WIDTH"/>
+		<item value="-23" key="DIALOG_Y_ORIGIN"/>
+		<item value="619" key="DIALOG_HEIGHT"/>
+		<item value="59" key="DIALOG_X_ORIGIN"/>
+		<item value="1025" key="ImportKind"/>
+		<item value="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="org.eclipse.bpel.ui.dialogs.TypeSelectorDialog">
+		<item value="1031" key="ViewFrom"/>
+		<item value="false" key="ShowDuplicates"/>
+		<item value="255" key="FilterTypes"/>
+		<item value="472" key="DIALOG_WIDTH"/>
+		<item value="true" key="ShowMessages"/>
+		<item value="-82" key="DIALOG_Y_ORIGIN"/>
+		<item value="26" key="DIALOG_X_ORIGIN"/>
+		<item value="701" key="DIALOG_HEIGHT"/>
+		<item value="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande" key="DIALOG_FONT_NAME"/>
+	</section>
+</section>

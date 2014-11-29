@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="FileSystemImportWizard">
+		<item value="false" key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID"/>
+		<item value="false" key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID"/>
+		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="/Users/azeez/workspace/ProductionSchedulingService/src/main/resources"/>
+			<item value="/Users/azeez/workspace/ShippingService/src/main/resources"/>
+			<item value="/Users/azeez/Downloads/bpel/BPELNumberAdder"/>
+		</list>
+	</section>
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item value="0" key="DIALOG_Y_ORIGIN"/>
+		<item value="424" key="DIALOG_X_ORIGIN"/>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.bpel.apache.ode.deploy.ui.wizards.NewODEDeployWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.bpel.wizards"/>
+			<item value="org.wso2.developerstudio.eclipse.capp.project"/>
+			<item value="org.wso2.developerstudio.eclipse.capp.project/org.wso2.developerstudio.eclipse.service.hosting"/>
+			<item value="org.wso2.developerstudio.eclipse.capp.project/org.wso2.developerstudio.eclipse.service.hosting/org.wso2.developerstudio.eclipse.service.hosting.project.types"/>
+		</list>
+	</section>
+	<section name="ImportExportAction">
+		<item value="org.eclipse.ui.wizards.import.FileSystem" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.wso2.developerstudio.eclipse.import"/>
+		</list>
+	</section>
+</section>

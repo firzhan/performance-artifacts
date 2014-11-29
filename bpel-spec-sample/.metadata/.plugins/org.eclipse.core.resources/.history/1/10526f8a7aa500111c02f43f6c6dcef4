@@ -1,0 +1,16 @@
+package org.wso2.bpel.spec.computeprice;
+
+import org.apache.axis2.AxisFault;
+import org.apache.axis2.client.ServiceClient;
+
+public class ComputePriceService{
+	public long computePrice(String orderId){
+		try {
+			ServiceClient s = new ServiceClient();
+		} catch (AxisFault e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		return 1000;
+	}
+}

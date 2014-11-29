@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deploy xmlns="http://www.apache.org/ode/schemas/dd/2007/03" xmlns:InvoiceCallback="http://www.example.org/InvoiceCallback/" xmlns:computeprice.spec.bpel.wso2.org="http://computeprice.spec.bpel.wso2.org" xmlns:sample="http://wso2.org/bps/sample">
+  <process name="sample:spec-sample">
+    <active>true</active>
+    <retired>false</retired>
+    <process-events generate="all"/>
+    <provide partnerLink="client">
+      <service name="sample:spec-sample" port="spec-samplePort"/>
+    </provide>
+    <provide partnerLink="InvoicingPL">
+      <service name="InvoiceCallback:ComputePriceCallbackService" port="ComputePriceCallbackPort"/>
+    </provide>
+    <invoke partnerLink="InvoicingPL">
+      <service name="computeprice.spec.bpel.wso2.org:ComputePriceService" port="ComputePriceServiceHttpSoap11Endpoint"/>
+    </invoke>
+  </process>
+</deploy>

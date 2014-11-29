@@ -1,0 +1,6 @@
+#Tue May 22 20:05:41 IST 2012
+org.eclipse.wst.ws.service.policy.ui.servicepols.wsiprofilecomp.wsissbp.default.value.key=org.eclipse.wst.sug.suggest
+eclipse.preferences.version=1
+org.eclipse.wst.ws.service.policy.ui.servicepols.wsiprofilecomp.wsissbp.defaultProtocol=http\://schemas.xmlsoap.org/wsdl/soap/
+org.eclipse.wst.ws.service.policy.ui.servicepols.wsiprofilecomp.wsiap.defaultProtocol=http\://schemas.xmlsoap.org/wsdl/soap/
+org.eclipse.wst.ws.service.policy.ui.servicepols.wsiprofilecomp.wsiap.default.value.key=org.eclipse.wst.sug.suggest

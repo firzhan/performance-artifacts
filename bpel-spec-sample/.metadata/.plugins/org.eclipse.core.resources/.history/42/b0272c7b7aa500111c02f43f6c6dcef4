@@ -1,0 +1,10 @@
+package org.wso2.bpel.spec.computeprice;
+
+import org.apache.axis2.client.ServiceClient;
+
+public class ComputePriceService{
+	public long computePrice(String orderId){
+		ServiceClient s = new ServiceClient();
+		return 1000;
+	}
+}

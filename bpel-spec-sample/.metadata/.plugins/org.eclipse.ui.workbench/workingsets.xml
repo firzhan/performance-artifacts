@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1338010893324_2" label="test" name="test">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ServicesApp" type="4"/>
+<item elementID="=ComputePriceService" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/PurchaseOrderProcessApp" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1337774543473_0" label="Window Working Set" name="Aggregate for window 1337774543472"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1338010860403_1" label="Window Working Set" name="Aggregate for window 1338010860403"/>
+<mruList name="test"/>
+</workingSetManager>

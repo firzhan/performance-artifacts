@@ -1,0 +1,451 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Invalid thread access",1338206689621
+error,log,,,"Invalid thread access",1338206689621
+error,log,,,"Invalid thread access",1338206689622
+error,log,,,"Invalid thread access",1338206689622
+error,log,,,"Invalid thread access",1338206689622
+error,log,,,"Invalid thread access",1338206689623
+error,log,,,"Invalid thread access",1338206689623
+error,log,,,"Invalid thread access",1338206690126
+error,log,,,"Invalid thread access",1338206690126
+error,log,,,"Invalid thread access",1338206690127
+error,log,,,"Invalid thread access",1338206690127
+error,log,,,"Invalid thread access",1338206690128
+error,log,,,"Invalid thread access",1338206690128
+error,log,,,"Invalid thread access",1338206690129
+error,log,,,"Invalid thread access",1338206690129
+error,log,,,"Invalid thread access",1338206690129
+error,log,,,"Invalid thread access",1338206690129
+error,log,,,"Invalid thread access",1338206690130
+error,log,,,"Invalid thread access",1338206690633
+error,log,,,"Invalid thread access",1338206690633
+error,log,,,"Invalid thread access",1338206690674
+error,log,,,"Invalid thread access",1338206690674
+error,log,,,"Invalid thread access",1338206690674
+error,log,,,"Invalid thread access",1338206690675
+error,log,,,"Invalid thread access",1338206690675
+error,log,,,"Invalid thread access",1338206690676
+error,log,,,"Invalid thread access",1338206690686
+error,log,,,"Invalid thread access",1338206690687
+error,log,,,"Invalid thread access",1338206690687
+error,log,,,"Invalid thread access",1338206691189
+error,log,,,"Invalid thread access",1338206691190
+error,log,,,"Invalid thread access",1338206691191
+error,log,,,"Invalid thread access",1338206691191
+error,log,,,"Invalid thread access",1338206691192
+error,log,,,"Invalid thread access",1338206691192
+error,log,,,"Invalid thread access",1338206691192
+error,log,,,"Invalid thread access",1338206691193
+error,log,,,"Invalid thread access",1338206691193
+error,log,,,"Invalid thread access",1338206691193
+error,log,,,"Invalid thread access",1338206691194
+error,log,,,"Invalid thread access",1338206691697
+error,log,,,"Invalid thread access",1338206691700
+error,log,,,"Invalid thread access",1338206691703
+error,log,,,"Invalid thread access",1338206691704
+error,log,,,"Invalid thread access",1338206691704
+error,log,,,"Invalid thread access",1338206691704
+error,log,,,"Invalid thread access",1338206691705
+error,log,,,"Invalid thread access",1338206691705
+error,log,,,"Invalid thread access",1338206691705
+error,log,,,"Invalid thread access",1338206691706
+error,log,,,"Invalid thread access",1338206691706
+error,log,,,"Invalid thread access",1338206692209
+error,log,,,"Invalid thread access",1338206692209
+error,log,,,"Invalid thread access",1338206692210
+error,log,,,"Invalid thread access",1338206692211
+error,log,,,"Invalid thread access",1338206692211
+error,log,,,"Invalid thread access",1338206692212
+error,log,,,"Invalid thread access",1338206692212
+error,log,,,"Invalid thread access",1338206692212
+error,log,,,"Invalid thread access",1338206692213
+error,log,,,"Invalid thread access",1338206692213
+error,log,,,"Invalid thread access",1338206692213
+error,log,,,"Invalid thread access",1338206692716
+error,log,,,"Invalid thread access",1338206692717
+error,log,,,"Invalid thread access",1338206692718
+error,log,,,"Invalid thread access",1338206692718
+error,log,,,"Invalid thread access",1338206692719
+error,log,,,"Invalid thread access",1338206692719
+error,log,,,"Invalid thread access",1338206692720
+error,log,,,"Invalid thread access",1338206692720
+error,log,,,"Invalid thread access",1338206692720
+error,log,,,"Invalid thread access",1338206692721
+error,log,,,"Invalid thread access",1338206692721
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1338206692789
+error,log,,,"Invalid thread access",1338206693223
+error,log,,,"Invalid thread access",1338206693223
+error,log,,,"Invalid thread access",1338206693224
+error,log,,,"Invalid thread access",1338206693225
+error,log,,,"Invalid thread access",1338206693225
+error,log,,,"Invalid thread access",1338206693226
+error,log,,,"Invalid thread access",1338206693226
+error,log,,,"Invalid thread access",1338206693226
+error,log,,,"Invalid thread access",1338206693227
+error,log,,,"Invalid thread access",1338206693227
+error,log,,,"Invalid thread access",1338206693228
+error,log,,,"Invalid thread access",1338206693730
+error,log,,,"Invalid thread access",1338206693730
+error,log,,,"Invalid thread access",1338206693732
+error,log,,,"Invalid thread access",1338206693732
+error,log,,,"Invalid thread access",1338206693733
+error,log,,,"Invalid thread access",1338206693733
+error,log,,,"Invalid thread access",1338206693734
+error,log,,,"Invalid thread access",1338206693734
+error,log,,,"Invalid thread access",1338206693734
+error,log,,,"Invalid thread access",1338206693735
+error,log,,,"Invalid thread access",1338206693735
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1338206694561
+activated,editor,org.eclipse.bpel.ui,0.5.0.wso2v2,"org.eclipse.bpel.ui.bpeleditor",1338206716388
+activated,view,org.eclipse.ui.views,3.5.0.I20100527-0800,"org.eclipse.ui.views.PropertySheet",1338206727303
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1338206802783
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1338206808233
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1338206812225
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1338206814063
+executed,command,org.eclipse.ui.ide,3.6.0.I20100601-0800,"org.eclipse.ui.project.cleanAction",1338206814141
+activated,editor,com.eviware.soapui.eclipse,4.0.1,"com.eviware.soapui.editors.SoapUIEditor",1338206814209
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1338206815947
+activated,view,org.eclipse.wst.server.ui,1.1.203.v20100601,"org.eclipse.wst.server.ui.ServersView",1338206817788
+executed,command,org.wso2.developerstudio.eclipse.carbonserver.base,2.0.0,"org.wso2.developerstudio.eclipse.server",1338206823615
+activated,view,org.eclipse.ui.navigator.resources,3.4.200.I20100601-0800,"org.eclipse.ui.navigator.ProjectExplorer",1338206827446
+activated,editor,org.eclipse.bpel.apache.ode.deploy.ui,0.5.0.wso2v2,"org.eclipse.bpel.apache.ode.deploy.ui.editors.ODEDeployMultiPageEditor",1338206827816
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1338206832891
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1338206837880
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1338206845393
+activated,editor,com.eviware.soapui.eclipse,4.0.1,"com.eviware.soapui.editors.SoapUIEditor",1338206845650
+activated,view,org.eclipse.ui.navigator.resources,3.4.200.I20100601-0800,"org.eclipse.ui.navigator.ProjectExplorer",1338206848960
+activated,editor,org.eclipse.bpel.apache.ode.deploy.ui,0.5.0.wso2v2,"org.eclipse.bpel.apache.ode.deploy.ui.editors.ODEDeployMultiPageEditor",1338206849230
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1338206852523
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1338206854232
+executed,command,org.eclipse.ui.ide,3.6.0.I20100601-0800,"org.eclipse.ui.project.cleanAction",1338206854352
+activated,editor,com.eviware.soapui.eclipse,4.0.1,"com.eviware.soapui.editors.SoapUIEditor",1338206854392
+activated,view,org.eclipse.wst.server.ui,1.1.203.v20100601,"org.eclipse.wst.server.ui.ServersView",1338206865230
+executed,command,org.wso2.developerstudio.eclipse.carbonserver.base,2.0.0,"org.wso2.developerstudio.eclipse.server",1338206874019
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1338206874466
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1338206918348
+activated,editor,com.eviware.soapui.eclipse,4.0.1,"com.eviware.soapui.editors.SoapUIEditor",1338206918523
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1338206920096
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1338206959067
+error,log,,,"Invalid thread access",1338206962292
+error,log,,,"Invalid thread access",1338206962292
+error,log,,,"Invalid thread access",1338206962293
+error,log,,,"Invalid thread access",1338206962294
+error,log,,,"Invalid thread access",1338206962294
+error,log,,,"Invalid thread access",1338206962295
+error,log,,,"Invalid thread access",1338206962295
+error,log,,,"Invalid thread access",1338206962295
+error,log,,,"Invalid thread access",1338206962296
+error,log,,,"Invalid thread access",1338206962296
+error,log,,,"Invalid thread access",1338206962297
+error,log,,,"Invalid thread access",1338206962799
+error,log,,,"Invalid thread access",1338206962800
+error,log,,,"Invalid thread access",1338206962800
+error,log,,,"Invalid thread access",1338206962801
+error,log,,,"Invalid thread access",1338206962802
+error,log,,,"Invalid thread access",1338206962804
+error,log,,,"Invalid thread access",1338206962805
+error,log,,,"Invalid thread access",1338206962805
+error,log,,,"Invalid thread access",1338206962806
+error,log,,,"Invalid thread access",1338206962806
+error,log,,,"Invalid thread access",1338206962806
+error,log,,,"Invalid thread access",1338206963309
+error,log,,,"Invalid thread access",1338206963310
+error,log,,,"Invalid thread access",1338206963311
+error,log,,,"Invalid thread access",1338206963311
+error,log,,,"Invalid thread access",1338206963312
+error,log,,,"Invalid thread access",1338206963312
+error,log,,,"Invalid thread access",1338206963312
+error,log,,,"Invalid thread access",1338206963313
+error,log,,,"Invalid thread access",1338206963314
+error,log,,,"Invalid thread access",1338206963315
+error,log,,,"Invalid thread access",1338206963315
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1338206963480
+error,log,,,"Invalid thread access",1338206963817
+error,log,,,"Invalid thread access",1338206963818
+error,log,,,"Invalid thread access",1338206963818
+error,log,,,"Invalid thread access",1338206963819
+error,log,,,"Invalid thread access",1338206963821
+error,log,,,"Invalid thread access",1338206963821
+error,log,,,"Invalid thread access",1338206963821
+error,log,,,"Invalid thread access",1338206963821
+error,log,,,"Invalid thread access",1338206963822
+error,log,,,"Invalid thread access",1338206963822
+error,log,,,"Invalid thread access",1338206963822
+error,log,,,"Invalid thread access",1338206964325
+error,log,,,"Invalid thread access",1338206964325
+error,log,,,"Invalid thread access",1338206964326
+error,log,,,"Invalid thread access",1338206964327
+error,log,,,"Invalid thread access",1338206964327
+error,log,,,"Invalid thread access",1338206964327
+error,log,,,"Invalid thread access",1338206964328
+error,log,,,"Invalid thread access",1338206964329
+error,log,,,"Invalid thread access",1338206964329
+error,log,,,"Invalid thread access",1338206964331
+error,log,,,"Invalid thread access",1338206964331
+error,log,,,"Invalid thread access",1338206964834
+error,log,,,"Invalid thread access",1338206964871
+error,log,,,"Invalid thread access",1338206964875
+error,log,,,"Invalid thread access",1338206964912
+error,log,,,"Invalid thread access",1338206964913
+error,log,,,"Invalid thread access",1338206964919
+error,log,,,"Invalid thread access",1338206964921
+error,log,,,"Invalid thread access",1338206964921
+error,log,,,"Invalid thread access",1338206964922
+error,log,,,"Invalid thread access",1338206964922
+error,log,,,"Invalid thread access",1338206964922
+error,log,,,"Invalid thread access",1338206965425
+error,log,,,"Invalid thread access",1338206965425
+error,log,,,"Invalid thread access",1338206965426
+error,log,,,"Invalid thread access",1338206965427
+error,log,,,"Invalid thread access",1338206965428
+error,log,,,"Invalid thread access",1338206965430
+error,log,,,"Invalid thread access",1338206965430
+error,log,,,"Invalid thread access",1338206965430
+error,log,,,"Invalid thread access",1338206965431
+error,log,,,"Invalid thread access",1338206965431
+error,log,,,"Invalid thread access",1338206965431
+error,log,,,"Invalid thread access",1338206965934
+error,log,,,"Invalid thread access",1338206965935
+error,log,,,"Invalid thread access",1338206965936
+error,log,,,"Invalid thread access",1338206965937
+error,log,,,"Invalid thread access",1338206965938
+error,log,,,"Invalid thread access",1338206965938
+error,log,,,"Invalid thread access",1338206965939
+error,log,,,"Invalid thread access",1338206965939
+error,log,,,"Invalid thread access",1338206965939
+error,log,,,"Invalid thread access",1338206965940
+error,log,,,"Invalid thread access",1338206965940
+error,log,,,"Invalid thread access",1338206966442
+error,log,,,"Invalid thread access",1338206966443
+error,log,,,"Invalid thread access",1338206966444
+error,log,,,"Invalid thread access",1338206966445
+error,log,,,"Invalid thread access",1338206966446
+error,log,,,"Invalid thread access",1338206966447
+error,log,,,"Invalid thread access",1338206966447
+error,log,,,"Invalid thread access",1338206966448
+error,log,,,"Invalid thread access",1338206966448
+error,log,,,"Invalid thread access",1338206966448
+error,log,,,"Invalid thread access",1338206966448
+error,log,,,"Invalid thread access",1338206966951
+error,log,,,"Invalid thread access",1338206966951
+error,log,,,"Invalid thread access",1338206966952
+error,log,,,"Invalid thread access",1338206966953
+error,log,,,"Invalid thread access",1338206966955
+error,log,,,"Invalid thread access",1338206966955
+error,log,,,"Invalid thread access",1338206966955
+error,log,,,"Invalid thread access",1338206966956
+error,log,,,"Invalid thread access",1338206966956
+error,log,,,"Invalid thread access",1338206966956
+error,log,,,"Invalid thread access",1338206966956
+error,log,,,"Invalid thread access",1338206967459
+error,log,,,"Invalid thread access",1338206967460
+error,log,,,"Invalid thread access",1338206967461
+error,log,,,"Invalid thread access",1338206967461
+error,log,,,"Invalid thread access",1338206967462
+error,log,,,"Invalid thread access",1338206967462
+error,log,,,"Invalid thread access",1338206967463
+error,log,,,"Invalid thread access",1338206967463
+error,log,,,"Invalid thread access",1338206967464
+error,log,,,"Invalid thread access",1338206967464
+error,log,,,"Invalid thread access",1338206967465
+error,log,,,"Invalid thread access",1338206967968
+error,log,,,"Invalid thread access",1338206967968
+error,log,,,"Invalid thread access",1338206967969
+error,log,,,"Invalid thread access",1338206967979
+error,log,,,"Invalid thread access",1338206967980
+error,log,,,"Invalid thread access",1338206967980
+error,log,,,"Invalid thread access",1338206967981
+error,log,,,"Invalid thread access",1338206967982
+error,log,,,"Invalid thread access",1338206967982
+error,log,,,"Invalid thread access",1338206967984
+error,log,,,"Invalid thread access",1338206967984
+error,log,,,"Invalid thread access",1338206968487
+error,log,,,"Invalid thread access",1338206968488
+error,log,,,"Invalid thread access",1338206968489
+error,log,,,"Invalid thread access",1338206968490
+error,log,,,"Invalid thread access",1338206968491
+error,log,,,"Invalid thread access",1338206968492
+error,log,,,"Invalid thread access",1338206968493
+error,log,,,"Invalid thread access",1338206968493
+error,log,,,"Invalid thread access",1338206968493
+error,log,,,"Invalid thread access",1338206968494
+error,log,,,"Invalid thread access",1338206968494
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1338206988525
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1338206991522
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1338207093846
+error,log,,,"Invalid thread access",1338207095711
+error,log,,,"Invalid thread access",1338207095711
+error,log,,,"Invalid thread access",1338207095712
+error,log,,,"Invalid thread access",1338207095713
+error,log,,,"Invalid thread access",1338207095714
+error,log,,,"Invalid thread access",1338207095714
+error,log,,,"Invalid thread access",1338207095715
+error,log,,,"Invalid thread access",1338207095715
+error,log,,,"Invalid thread access",1338207095729
+error,log,,,"Invalid thread access",1338207095729
+error,log,,,"Invalid thread access",1338207095730
+error,log,,,"Invalid thread access",1338207096233
+error,log,,,"Invalid thread access",1338207096233
+error,log,,,"Invalid thread access",1338207096234
+error,log,,,"Invalid thread access",1338207096235
+error,log,,,"Invalid thread access",1338207096236
+error,log,,,"Invalid thread access",1338207096237
+error,log,,,"Invalid thread access",1338207096237
+error,log,,,"Invalid thread access",1338207096238
+error,log,,,"Invalid thread access",1338207096238
+error,log,,,"Invalid thread access",1338207096238
+error,log,,,"Invalid thread access",1338207096239
+error,log,,,"Invalid thread access",1338207096741
+error,log,,,"Invalid thread access",1338207096742
+error,log,,,"Invalid thread access",1338207096742
+error,log,,,"Invalid thread access",1338207096743
+error,log,,,"Invalid thread access",1338207096744
+error,log,,,"Invalid thread access",1338207096745
+error,log,,,"Invalid thread access",1338207096746
+error,log,,,"Invalid thread access",1338207096746
+error,log,,,"Invalid thread access",1338207096747
+error,log,,,"Invalid thread access",1338207096748
+error,log,,,"Invalid thread access",1338207096749
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1338207096866
+error,log,,,"Invalid thread access",1338207097251
+error,log,,,"Invalid thread access",1338207097252
+error,log,,,"Invalid thread access",1338207097253
+error,log,,,"Invalid thread access",1338207097254
+error,log,,,"Invalid thread access",1338207097255
+error,log,,,"Invalid thread access",1338207097256
+error,log,,,"Invalid thread access",1338207097256
+error,log,,,"Invalid thread access",1338207097257
+error,log,,,"Invalid thread access",1338207097257
+error,log,,,"Invalid thread access",1338207097257
+error,log,,,"Invalid thread access",1338207097258
+error,log,,,"Invalid thread access",1338207097760
+error,log,,,"Invalid thread access",1338207097761
+error,log,,,"Invalid thread access",1338207097762
+error,log,,,"Invalid thread access",1338207097762
+error,log,,,"Invalid thread access",1338207097763
+error,log,,,"Invalid thread access",1338207097764
+error,log,,,"Invalid thread access",1338207097764
+error,log,,,"Invalid thread access",1338207097764
+error,log,,,"Invalid thread access",1338207097765
+error,log,,,"Invalid thread access",1338207097765
+error,log,,,"Invalid thread access",1338207097766
+error,log,,,"Invalid thread access",1338207098269
+error,log,,,"Invalid thread access",1338207098269
+error,log,,,"Invalid thread access",1338207098270
+error,log,,,"Invalid thread access",1338207098271
+error,log,,,"Invalid thread access",1338207098272
+error,log,,,"Invalid thread access",1338207098273
+error,log,,,"Invalid thread access",1338207098274
+error,log,,,"Invalid thread access",1338207098274
+error,log,,,"Invalid thread access",1338207098274
+error,log,,,"Invalid thread access",1338207098274
+error,log,,,"Invalid thread access",1338207098275
+error,log,,,"Invalid thread access",1338207098777
+error,log,,,"Invalid thread access",1338207098778
+error,log,,,"Invalid thread access",1338207098779
+error,log,,,"Invalid thread access",1338207098779
+error,log,,,"Invalid thread access",1338207098781
+error,log,,,"Invalid thread access",1338207098781
+error,log,,,"Invalid thread access",1338207098782
+error,log,,,"Invalid thread access",1338207098782
+error,log,,,"Invalid thread access",1338207098782
+error,log,,,"Invalid thread access",1338207098783
+error,log,,,"Invalid thread access",1338207098783
+error,log,,,"Invalid thread access",1338207099286
+error,log,,,"Invalid thread access",1338207099286
+error,log,,,"Invalid thread access",1338207099287
+error,log,,,"Invalid thread access",1338207099288
+error,log,,,"Invalid thread access",1338207099289
+error,log,,,"Invalid thread access",1338207099291
+error,log,,,"Invalid thread access",1338207099291
+error,log,,,"Invalid thread access",1338207099291
+error,log,,,"Invalid thread access",1338207099291
+error,log,,,"Invalid thread access",1338207099292
+error,log,,,"Invalid thread access",1338207099292
+error,log,,,"Invalid thread access",1338207099795
+error,log,,,"Invalid thread access",1338207099796
+error,log,,,"Invalid thread access",1338207099796
+error,log,,,"Invalid thread access",1338207099797
+error,log,,,"Invalid thread access",1338207099798
+error,log,,,"Invalid thread access",1338207099799
+error,log,,,"Invalid thread access",1338207099800
+error,log,,,"Invalid thread access",1338207099800
+error,log,,,"Invalid thread access",1338207099800
+error,log,,,"Invalid thread access",1338207099801
+error,log,,,"Invalid thread access",1338207099801
+error,log,,,"Invalid thread access",1338207100304
+error,log,,,"Invalid thread access",1338207100305
+error,log,,,"Invalid thread access",1338207100306
+error,log,,,"Invalid thread access",1338207100307
+error,log,,,"Invalid thread access",1338207100307
+error,log,,,"Invalid thread access",1338207100308
+error,log,,,"Invalid thread access",1338207100309
+error,log,,,"Invalid thread access",1338207100310
+error,log,,,"Invalid thread access",1338207100311
+error,log,,,"Invalid thread access",1338207100312
+error,log,,,"Invalid thread access",1338207100313
+error,log,,,"Invalid thread access",1338207100815
+error,log,,,"Invalid thread access",1338207100816
+error,log,,,"Invalid thread access",1338207100817
+error,log,,,"Invalid thread access",1338207100818
+error,log,,,"Invalid thread access",1338207100819
+error,log,,,"Invalid thread access",1338207100819
+error,log,,,"Invalid thread access",1338207100820
+error,log,,,"Invalid thread access",1338207100821
+error,log,,,"Invalid thread access",1338207100821
+error,log,,,"Invalid thread access",1338207100822
+error,log,,,"Invalid thread access",1338207100823
+error,log,,,"Invalid thread access",1338207101326
+error,log,,,"Invalid thread access",1338207101327
+error,log,,,"Invalid thread access",1338207101327
+error,log,,,"Invalid thread access",1338207101328
+error,log,,,"Invalid thread access",1338207101329
+error,log,,,"Invalid thread access",1338207101330
+error,log,,,"Invalid thread access",1338207101331
+error,log,,,"Invalid thread access",1338207101331
+error,log,,,"Invalid thread access",1338207101332
+error,log,,,"Invalid thread access",1338207101333
+error,log,,,"Invalid thread access",1338207101334
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1338207413790
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1338207427026
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1338207428751
+executed,command,org.eclipse.ui.ide,3.6.0.I20100601-0800,"org.eclipse.ui.project.cleanAction",1338207428847
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1338207429397
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1338207429449
+activated,view,org.eclipse.wst.server.ui,1.1.203.v20100601,"org.eclipse.wst.server.ui.ServersView",1338207483018
+executed,command,org.wso2.developerstudio.eclipse.carbonserver.base,2.0.0,"org.wso2.developerstudio.eclipse.server",1338207486756
+executed,command,org.wso2.developerstudio.eclipse.carbonserver.base,2.0.0,"org.wso2.developerstudio.eclipse.server",1338207496641
+activated,editor,org.eclipse.bpel.ui,0.5.0.wso2v2,"org.eclipse.bpel.ui.bpeleditor",1338207559283
+opened,view,org.eclipse.gef,3.6.0.v20100525-1225,"org.eclipse.gef.ui.palette_view",1338207565217
+activated,view,org.eclipse.gef,3.6.0.v20100525-1225,"org.eclipse.gef.ui.palette_view",1338207565329
+activated,editor,org.eclipse.bpel.ui,0.5.0.wso2v2,"org.eclipse.bpel.ui.bpeleditor",1338207568217
+activated,view,org.eclipse.ui.views,3.5.0.I20100527-0800,"org.eclipse.ui.views.PropertySheet",1338207570563
+activated,editor,org.eclipse.bpel.ui,0.5.0.wso2v2,"org.eclipse.bpel.ui.bpeleditor",1338207605046
+error,log,,,"",1338207607011
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1338207607105
+activated,view,org.eclipse.ui.navigator.resources,3.4.200.I20100601-0800,"org.eclipse.ui.navigator.ProjectExplorer",1338207609395
+activated,editor,org.eclipse.bpel.apache.ode.deploy.ui,0.5.0.wso2v2,"org.eclipse.bpel.apache.ode.deploy.ui.editors.ODEDeployMultiPageEditor",1338207612863
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1338207616542
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1338207620729
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1338207623754
+executed,command,org.eclipse.ui.ide,3.6.0.I20100601-0800,"org.eclipse.ui.project.cleanAction",1338207623884
+activated,editor,com.eviware.soapui.eclipse,4.0.1,"com.eviware.soapui.editors.SoapUIEditor",1338207624224
+activated,view,org.eclipse.wst.server.ui,1.1.203.v20100601,"org.eclipse.wst.server.ui.ServersView",1338207627638
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1338207629472
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1338207636663
+activated,editor,com.eviware.soapui.eclipse,4.0.1,"com.eviware.soapui.editors.SoapUIEditor",1338207636819
+activated,view,org.eclipse.wst.server.ui,1.1.203.v20100601,"org.eclipse.wst.server.ui.ServersView",1338207638018
+executed,command,org.wso2.developerstudio.eclipse.carbonserver.base,2.0.0,"org.wso2.developerstudio.eclipse.server",1338207640347
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1338207641606
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1338207668162
+activated,editor,com.eviware.soapui.eclipse,4.0.1,"com.eviware.soapui.editors.SoapUIEditor",1338207668344
+activated,editor,org.eclipse.bpel.ui,0.5.0.wso2v2,"org.eclipse.bpel.ui.bpeleditor",1338207671882
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1338207710477
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1338207713624
+activated,editor,com.eviware.soapui.eclipse,4.0.1,"com.eviware.soapui.editors.SoapUIEditor",1338207713890
+error,log,,,"Invalid thread access",1338207717024
+error,log,,,"Invalid thread access",1338207717025
+error,log,,,"Invalid thread access",1338207717026
+error,log,,,"Invalid thread access",1338207717027
+error,log,,,"Invalid thread access",1338207717027
+error,log,,,"Invalid thread access",1338207717028

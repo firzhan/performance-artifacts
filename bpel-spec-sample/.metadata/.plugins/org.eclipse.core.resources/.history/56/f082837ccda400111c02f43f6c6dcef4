@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><wsdl:definitions name="InvoiceCallback" targetNamespace="http://www.example.org/InvoiceCallback/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:tns="http://www.example.org/InvoiceCallback/" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <wsdl:types><xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.example.org/InvoiceCallback/">
+	<xsd:element name="computePriceCallback">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="orderId" type="xsd:string"></xsd:element>
+				<xsd:element name="price" type="xsd:int"></xsd:element>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="computePriceCallbackResponse">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="out" type="xsd:string"></xsd:element>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element></xsd:schema></wsdl:types>
+    <wsdl:message name="computePriceCallbackRequest">
+		<wsdl:part name="parameters" element="tns:computePriceCallback"></wsdl:part>
+	</wsdl:message>
+    <wsdl:message name="computePriceCallbackResponse">
+    	<wsdl:part name="parameters" element="tns:computePriceCallbackResponse"></wsdl:part>
+    </wsdl:message>
+    <wsdl:portType name="ComputePriceCallbackPortType">
+    	<wsdl:operation name="computePriceCallback">
+    		<wsdl:input message="tns:computePriceCallbackRequest"></wsdl:input>
+    		<wsdl:output message="tns:computePriceCallbackResponse"></wsdl:output>
+    	</wsdl:operation>
+    </wsdl:portType></wsdl:definitions>

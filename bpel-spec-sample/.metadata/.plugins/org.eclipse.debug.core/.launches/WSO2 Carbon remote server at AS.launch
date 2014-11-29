@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.wso2.developerstudio.eclipse.carbon.runtime.remote.launchConfigurationType">
+<stringAttribute key="server-id" value="WSO2 Carbon remote server at AS"/>
+</launchConfiguration>

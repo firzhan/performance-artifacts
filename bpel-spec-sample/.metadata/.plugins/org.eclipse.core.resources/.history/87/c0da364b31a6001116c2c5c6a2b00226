@@ -1,0 +1,36 @@
+package org.wso2.bpel.spec.computeprice;
+
+import java.io.ByteArrayInputStream;
+
+import javax.xml.stream.XMLStreamException;
+
+import org.apache.axiom.om.OMElement;
+import org.apache.axiom.om.impl.builder.StAXOMBuilder;
+import org.apache.axis2.AxisFault;
+import org.apache.axis2.client.ServiceClient;
+
+public class ComputePriceService{
+	public long computePrice(String orderId){
+		try {
+			//Create a service client
+	        ServiceClient client = new ServiceClient();
+
+	        //Set the endpoint address
+	        client.getOptions().setTo(new EndpointReference(EPR));
+
+	        //Make the reqest and get the response
+	        OMElement resp = client.sendReceive(getPayload(url));
+		} catch (AxisFault e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		return 1000;
+	}
+	
+    private static OMElement getEchoPayload(String input) throws XMLStreamException {
+        String payload = "<ns:echo xmlns:ns=\"http://service.mail.sample.appserver.wso2.org\">" +
+                "<ns:in>" + input + "</ns:in></ns:echo>";
+
+        return new StAXOMBuilder(new ByteArrayInputStream(payload.getBytes())).getDocumentElement();
+    }
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server PASSWORD="admin123" SERVER_URL="https://localhost:9443/" USERNAME="admin@azeez.org" hostname="AS" id="WSO2 Carbon remote server at AS" name="WSO2 Carbon remote server at AS" server-type="org.wso2.developerstudio.eclipse.carbon.server.remote" server-type-id="org.wso2.developerstudio.eclipse.carbon.server.remote" start-timeout="600" stop-timeout="15" timestamp="5">
+    <list key="RCS_MODULES_LIST" value0="org.wso2.developerstudio.eclipse.carbon.moduleFactory:ServicesApp"/>
+    <list key="modules" value0="ServicesApp::org.wso2.developerstudio.eclipse.carbon.moduleFactory:ServicesApp::org.wso2.developerstudio.eclipse.carbon.module::1.0"/>
+  </server>
+  <server PASSWORD="admin" SERVER_URL="https://localhost:9444/" USERNAME="admin" hostname="BPS" id="WSO2 Carbon remote server at BPS" name="WSO2 Carbon remote server at BPS" server-type="org.wso2.developerstudio.eclipse.carbon.server.remote" server-type-id="org.wso2.developerstudio.eclipse.carbon.server.remote" start-timeout="600" stop-timeout="15" timestamp="5">
+    <list key="RCS_MODULES_LIST" value0="org.wso2.developerstudio.eclipse.carbon.moduleFactory:PurchaseOrderProcessApp"/>
+    <list key="modules" value0="PurchaseOrderProcessApp::org.wso2.developerstudio.eclipse.carbon.moduleFactory:PurchaseOrderProcessApp::org.wso2.developerstudio.eclipse.carbon.module::1.0"/>
+  </server>
+</servers>
